@@ -1,4 +1,4 @@
 accessing
-user: anObject
+userNamed: anObject
 	
 	user := anObject.

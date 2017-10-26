@@ -2,6 +2,6 @@ as yet unclassified
 initialize 
 
 	self 
-		users: OrderedCollection new;
+		users: Dictionary new;
 		inventory: OrderedCollection new
 	

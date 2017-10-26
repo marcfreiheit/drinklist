@@ -1,4 +1,4 @@
 as yet unclassified
 setUp
 
-	self user: (DrinklistUser create: 'Test')
+	self userNamed: (DrinklistUser create: 'Test')
