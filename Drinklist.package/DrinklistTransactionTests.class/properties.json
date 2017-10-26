@@ -1,16 +1,14 @@
 {
-	"category" : "Drinklist",
+	"category" : "Drinklist-Tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"users",
-		"inventory",
-		"transactions" ],
-	"name" : "DrinklistCore",
+		 ],
+	"name" : "DrinklistTransactionTests",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "TestCase",
 	"type" : "normal" }

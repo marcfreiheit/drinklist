@@ -3,5 +3,6 @@ initialize
 
 	self 
 		users: OrderedCollection new;
-		inventory: OrderedCollection new
+		inventory: OrderedCollection new;
+		transactions: OrderedCollection new 
 	
