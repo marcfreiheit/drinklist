@@ -2,10 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
+		"add:" : "maf 10/26/2017 15:57",
+		"addTransaction:" : "maf 10/26/2017 15:58",
 		"drinks" : "WF 10/26/2017 15:49",
 		"initialize" : "WF 10/26/2017 16:15",
 		"inventory" : "maf 10/26/2017 11:45",
 		"inventory:" : "maf 10/26/2017 11:45",
+		"transactions" : "maf 10/26/2017 15:07",
+		"transactions:" : "maf 10/26/2017 15:07",
+		"transactionsFor:" : "maf 10/26/2017 15:46",
 		"userNamed:" : "WF 10/26/2017 15:47",
 		"users" : "maf 10/26/2017 11:45",
 		"users:" : "maf 10/26/2017 11:45" } }
