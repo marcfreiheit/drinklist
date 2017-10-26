@@ -5,5 +5,10 @@ SmalltalkCISpec {
       #directory : '',
       #platforms : [ #squeak ]
     }
-  ]
+  ],
+  #testing : {
+    #coverage : {
+      #packages : [ 'Drinklist.*' ]
+    }
+  }
 }
