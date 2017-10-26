@@ -1,0 +1,11 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'Drinklist',
+      #directory : '',
+      #platforms : [ #squeak ],
+      #load : [ 'Tests' ],
+      #useLatestMetacello : true
+    }
+  ]
+}
