@@ -1,0 +1,16 @@
+{
+	"category" : "Drinklist-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"coke",
+		"mate",
+		"beer" ],
+	"name" : "DrinklistDrinkTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
