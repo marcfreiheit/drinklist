@@ -1,4 +1,4 @@
 initialize-release
 initialize 
 
-	self drinks: OrderedCollection new
+	self drinks: Dictionary new

@@ -1,7 +1,7 @@
 as yet unclassified
 testManageDrinks
 
-	self inventory: OrderedCollection new.
+	self inventory: DrinklistInventory new.
 	self inventory add: (DrinklistDrink create: #coke whichCosts: 1).
 	
 	self assert: self inventory size = 1.
