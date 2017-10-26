@@ -1,0 +1,14 @@
+{
+	"category" : "Drinklist",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"drinks" ],
+	"name" : "DrinklistInventory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
