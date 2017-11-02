@@ -3,8 +3,8 @@ testTransactionsFor
 	| user1 user2 drink1 drink2 |
 	user1 := DrinklistUser create: 'First User'.
 	user2 := DrinklistUser create: 'Second User'.
-	drink1 := DrinklistDrink create: #mate whichCosts: 1.
-	drink2 := DrinklistDrink create: #coke whichCosts: 2.
+	drink1 := DrinklistDrink create: #mate whichCosts: 1 initialStock: 10 minimumStock: 2.
+	drink2 := DrinklistDrink create: #coke whichCosts: 2 initialStock: 10 minimumStock: 2.
 	
 	self core 
 		add: (DrinklistTransaction createFor: user1 with: drink1);

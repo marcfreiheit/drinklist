@@ -2,8 +2,8 @@ as yet unclassified
 testBalance
 	| coke lemon |
 	self user balance: 0.
-	coke := DrinklistDrink create: #coke whichCosts: 1.
-	lemon := DrinklistDrink create: #lemon whichCosts: 2.
+	coke := DrinklistDrink create: #coke whichCosts: 1 initialStock: 10 minimumStock: 2.
+	lemon := DrinklistDrink create: #lemon whichCosts: 2 initialStock: 10 minimumStock: 2.
 	
 	
 	self user takeDrink: coke.

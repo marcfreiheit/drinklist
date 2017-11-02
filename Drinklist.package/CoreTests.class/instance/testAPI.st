@@ -7,8 +7,8 @@ testAPI
 	user1 := DrinklistUser create: 'Test'.
 	user2 := DrinklistUser create: 'banane'.
 	
-	drink1 := DrinklistDrink create: #mate whichCosts: 1.
-	drink2 := DrinklistDrink create: #oSaft whichCosts: 2.
+	drink1 := DrinklistDrink create: #mate whichCosts: 1 initialStock: 10 minimumStock: 2.
+	drink2 := DrinklistDrink create: #oSaft whichCosts: 2 initialStock: 10 minimumStock: 2.
 	
 	self core
 			add: user1;

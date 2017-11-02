@@ -1,0 +1,4 @@
+*Drinklist
+isDrinklistDrink
+
+	^ false
