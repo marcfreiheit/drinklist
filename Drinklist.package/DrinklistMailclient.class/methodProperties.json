@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"emailHost" : "jb 10/26/2017 12:10",
+		"emailPort" : "jb 10/26/2017 12:10",
+		"emailUser" : "jb 10/26/2017 12:11",
+		"encode:" : "jb 10/26/2017 15:41",
+		"sendEmailTo:withText:withSubject:" : "jb 10/26/2017 16:15",
+		"sendEmailTo:withText:withSubject:andType:" : "jb 10/26/2017 16:15",
+		"sendOrderMailTo:withStock:" : "jb 10/26/2017 16:24",
+		"sendRemainderTo:named:forAmount:" : "jb 10/26/2017 12:08",
+		"testIt" : "jb 10/26/2017 16:07" } }

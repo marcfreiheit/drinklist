@@ -1,16 +1,13 @@
 {
 	"category" : "Drinklist",
 	"classinstvars" : [
-		"instance" ],
+		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"mailClient",
-		"users",
-		"inventory",
-		"transactions" ],
-	"name" : "DrinklistCore",
+		 ],
+	"name" : "DrinklistMailclient",
 	"pools" : [
 		 ],
 	"super" : "Object",
