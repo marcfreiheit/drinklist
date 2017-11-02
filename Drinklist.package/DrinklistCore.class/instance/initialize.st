@@ -3,5 +3,5 @@ initialize
 
 	self 
 		users: Dictionary new;
-		inventory: OrderedCollection new
-	
+		inventory: Dictionary new;
+		transactions: OrderedCollection new.

@@ -1,4 +1,4 @@
 accessing
-users: anObject
+users: aDictionary
 	
-	users := anObject.
+	users := aDictionary.
