@@ -3,9 +3,11 @@
 		 },
 	"instance" : {
 		"add:" : "maf 10/26/2017 15:57",
-		"addDrink:" : "WF 11/2/2017 09:42",
+		"addDrink:" : "WF 11/2/2017 10:05",
 		"addTransaction:" : "maf 10/26/2017 15:58",
-		"addUser:" : "WF 11/2/2017 09:20",
+		"addUser:" : "WF 11/2/2017 10:05",
+		"buy:by:" : "WF 11/2/2017 10:28",
+		"drinkNamed:" : "WF 11/2/2017 10:17",
 		"drinks" : "WF 10/26/2017 15:49",
 		"initialize" : "WF 11/2/2017 09:54",
 		"inventory" : "maf 10/26/2017 11:45",

@@ -6,7 +6,6 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"transactions",
 		"balance",
 		"userName" ],
 	"name" : "DrinklistUser",
